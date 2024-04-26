@@ -20,5 +20,5 @@ topic-creator:
 # Required Configs
 
 Following environment variables required for `topic-creator` docker start up:
-- BOOTSRAP_SERVER: bootstrap server host and port. eg localhost:9092
+- BOOTSTRAP_SERVER: bootstrap server host and port. eg localhost:9092
 - TOPIC_NAMES: topic names in string with coma separator. eg my-topic,his-topic
